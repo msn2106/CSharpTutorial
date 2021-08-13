@@ -1,0 +1,13 @@
+C:\Users\MS Official\source\repos\Tutorial19Exceptions\Tutorial19Exceptions\bin\Debug\netcoreapp3.1\Tutorial19Exceptions.exe
+C:\Users\MS Official\source\repos\Tutorial19Exceptions\Tutorial19Exceptions\bin\Debug\netcoreapp3.1\Tutorial19Exceptions.deps.json
+C:\Users\MS Official\source\repos\Tutorial19Exceptions\Tutorial19Exceptions\bin\Debug\netcoreapp3.1\Tutorial19Exceptions.runtimeconfig.json
+C:\Users\MS Official\source\repos\Tutorial19Exceptions\Tutorial19Exceptions\bin\Debug\netcoreapp3.1\Tutorial19Exceptions.runtimeconfig.dev.json
+C:\Users\MS Official\source\repos\Tutorial19Exceptions\Tutorial19Exceptions\bin\Debug\netcoreapp3.1\Tutorial19Exceptions.dll
+C:\Users\MS Official\source\repos\Tutorial19Exceptions\Tutorial19Exceptions\bin\Debug\netcoreapp3.1\Tutorial19Exceptions.pdb
+C:\Users\MS Official\source\repos\Tutorial19Exceptions\Tutorial19Exceptions\obj\Debug\netcoreapp3.1\Tutorial19Exceptions.csproj.AssemblyReference.cache
+C:\Users\MS Official\source\repos\Tutorial19Exceptions\Tutorial19Exceptions\obj\Debug\netcoreapp3.1\Tutorial19Exceptions.AssemblyInfoInputs.cache
+C:\Users\MS Official\source\repos\Tutorial19Exceptions\Tutorial19Exceptions\obj\Debug\netcoreapp3.1\Tutorial19Exceptions.AssemblyInfo.cs
+C:\Users\MS Official\source\repos\Tutorial19Exceptions\Tutorial19Exceptions\obj\Debug\netcoreapp3.1\Tutorial19Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\MS Official\source\repos\Tutorial19Exceptions\Tutorial19Exceptions\obj\Debug\netcoreapp3.1\Tutorial19Exceptions.dll
+C:\Users\MS Official\source\repos\Tutorial19Exceptions\Tutorial19Exceptions\obj\Debug\netcoreapp3.1\Tutorial19Exceptions.pdb
+C:\Users\MS Official\source\repos\Tutorial19Exceptions\Tutorial19Exceptions\obj\Debug\netcoreapp3.1\Tutorial19Exceptions.genruntimeconfig.cache

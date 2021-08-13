@@ -1,0 +1,13 @@
+C:\Users\MS Official\source\repos\Tutorial29HashSet\Tutorial29HashSet\bin\Debug\netcoreapp3.1\Tutorial29HashSet.exe
+C:\Users\MS Official\source\repos\Tutorial29HashSet\Tutorial29HashSet\bin\Debug\netcoreapp3.1\Tutorial29HashSet.deps.json
+C:\Users\MS Official\source\repos\Tutorial29HashSet\Tutorial29HashSet\bin\Debug\netcoreapp3.1\Tutorial29HashSet.runtimeconfig.json
+C:\Users\MS Official\source\repos\Tutorial29HashSet\Tutorial29HashSet\bin\Debug\netcoreapp3.1\Tutorial29HashSet.runtimeconfig.dev.json
+C:\Users\MS Official\source\repos\Tutorial29HashSet\Tutorial29HashSet\bin\Debug\netcoreapp3.1\Tutorial29HashSet.dll
+C:\Users\MS Official\source\repos\Tutorial29HashSet\Tutorial29HashSet\bin\Debug\netcoreapp3.1\Tutorial29HashSet.pdb
+C:\Users\MS Official\source\repos\Tutorial29HashSet\Tutorial29HashSet\obj\Debug\netcoreapp3.1\Tutorial29HashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MS Official\source\repos\Tutorial29HashSet\Tutorial29HashSet\obj\Debug\netcoreapp3.1\Tutorial29HashSet.AssemblyInfoInputs.cache
+C:\Users\MS Official\source\repos\Tutorial29HashSet\Tutorial29HashSet\obj\Debug\netcoreapp3.1\Tutorial29HashSet.AssemblyInfo.cs
+C:\Users\MS Official\source\repos\Tutorial29HashSet\Tutorial29HashSet\obj\Debug\netcoreapp3.1\Tutorial29HashSet.csproj.CoreCompileInputs.cache
+C:\Users\MS Official\source\repos\Tutorial29HashSet\Tutorial29HashSet\obj\Debug\netcoreapp3.1\Tutorial29HashSet.dll
+C:\Users\MS Official\source\repos\Tutorial29HashSet\Tutorial29HashSet\obj\Debug\netcoreapp3.1\Tutorial29HashSet.pdb
+C:\Users\MS Official\source\repos\Tutorial29HashSet\Tutorial29HashSet\obj\Debug\netcoreapp3.1\Tutorial29HashSet.genruntimeconfig.cache

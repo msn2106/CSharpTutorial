@@ -1,0 +1,13 @@
+C:\Users\MS Official\source\repos\Tutorial24SortedList\Tutorial24SortedList\bin\Debug\netcoreapp3.1\Tutorial24SortedList.exe
+C:\Users\MS Official\source\repos\Tutorial24SortedList\Tutorial24SortedList\bin\Debug\netcoreapp3.1\Tutorial24SortedList.deps.json
+C:\Users\MS Official\source\repos\Tutorial24SortedList\Tutorial24SortedList\bin\Debug\netcoreapp3.1\Tutorial24SortedList.runtimeconfig.json
+C:\Users\MS Official\source\repos\Tutorial24SortedList\Tutorial24SortedList\bin\Debug\netcoreapp3.1\Tutorial24SortedList.runtimeconfig.dev.json
+C:\Users\MS Official\source\repos\Tutorial24SortedList\Tutorial24SortedList\bin\Debug\netcoreapp3.1\Tutorial24SortedList.dll
+C:\Users\MS Official\source\repos\Tutorial24SortedList\Tutorial24SortedList\bin\Debug\netcoreapp3.1\Tutorial24SortedList.pdb
+C:\Users\MS Official\source\repos\Tutorial24SortedList\Tutorial24SortedList\obj\Debug\netcoreapp3.1\Tutorial24SortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MS Official\source\repos\Tutorial24SortedList\Tutorial24SortedList\obj\Debug\netcoreapp3.1\Tutorial24SortedList.AssemblyInfoInputs.cache
+C:\Users\MS Official\source\repos\Tutorial24SortedList\Tutorial24SortedList\obj\Debug\netcoreapp3.1\Tutorial24SortedList.AssemblyInfo.cs
+C:\Users\MS Official\source\repos\Tutorial24SortedList\Tutorial24SortedList\obj\Debug\netcoreapp3.1\Tutorial24SortedList.csproj.CoreCompileInputs.cache
+C:\Users\MS Official\source\repos\Tutorial24SortedList\Tutorial24SortedList\obj\Debug\netcoreapp3.1\Tutorial24SortedList.dll
+C:\Users\MS Official\source\repos\Tutorial24SortedList\Tutorial24SortedList\obj\Debug\netcoreapp3.1\Tutorial24SortedList.pdb
+C:\Users\MS Official\source\repos\Tutorial24SortedList\Tutorial24SortedList\obj\Debug\netcoreapp3.1\Tutorial24SortedList.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\MS Official\source\repos\Tutorial23Lists\Tutorial23Lists\bin\Debug\netcoreapp3.1\Tutorial23Lists.exe
+C:\Users\MS Official\source\repos\Tutorial23Lists\Tutorial23Lists\bin\Debug\netcoreapp3.1\Tutorial23Lists.deps.json
+C:\Users\MS Official\source\repos\Tutorial23Lists\Tutorial23Lists\bin\Debug\netcoreapp3.1\Tutorial23Lists.runtimeconfig.json
+C:\Users\MS Official\source\repos\Tutorial23Lists\Tutorial23Lists\bin\Debug\netcoreapp3.1\Tutorial23Lists.runtimeconfig.dev.json
+C:\Users\MS Official\source\repos\Tutorial23Lists\Tutorial23Lists\bin\Debug\netcoreapp3.1\Tutorial23Lists.dll
+C:\Users\MS Official\source\repos\Tutorial23Lists\Tutorial23Lists\bin\Debug\netcoreapp3.1\Tutorial23Lists.pdb
+C:\Users\MS Official\source\repos\Tutorial23Lists\Tutorial23Lists\obj\Debug\netcoreapp3.1\Tutorial23Lists.csproj.AssemblyReference.cache
+C:\Users\MS Official\source\repos\Tutorial23Lists\Tutorial23Lists\obj\Debug\netcoreapp3.1\Tutorial23Lists.AssemblyInfoInputs.cache
+C:\Users\MS Official\source\repos\Tutorial23Lists\Tutorial23Lists\obj\Debug\netcoreapp3.1\Tutorial23Lists.AssemblyInfo.cs
+C:\Users\MS Official\source\repos\Tutorial23Lists\Tutorial23Lists\obj\Debug\netcoreapp3.1\Tutorial23Lists.csproj.CoreCompileInputs.cache
+C:\Users\MS Official\source\repos\Tutorial23Lists\Tutorial23Lists\obj\Debug\netcoreapp3.1\Tutorial23Lists.dll
+C:\Users\MS Official\source\repos\Tutorial23Lists\Tutorial23Lists\obj\Debug\netcoreapp3.1\Tutorial23Lists.pdb
+C:\Users\MS Official\source\repos\Tutorial23Lists\Tutorial23Lists\obj\Debug\netcoreapp3.1\Tutorial23Lists.genruntimeconfig.cache
+C:\Users\MS Official\source\repos\Tutorial23Lists\Tutorial23Lists\obj\Debug\netcoreapp3.1\Tutorial23Lists.GeneratedMSBuildEditorConfig.editorconfig

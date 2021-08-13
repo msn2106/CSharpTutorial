@@ -1,0 +1,12 @@
+C:\Users\MS Official\source\repos\Tutorial16DrawingApplication\Tutorial16DrawingApplication\bin\Debug\netcoreapp3.1\Tutorial16DrawingApplication.exe
+C:\Users\MS Official\source\repos\Tutorial16DrawingApplication\Tutorial16DrawingApplication\bin\Debug\netcoreapp3.1\Tutorial16DrawingApplication.deps.json
+C:\Users\MS Official\source\repos\Tutorial16DrawingApplication\Tutorial16DrawingApplication\bin\Debug\netcoreapp3.1\Tutorial16DrawingApplication.runtimeconfig.json
+C:\Users\MS Official\source\repos\Tutorial16DrawingApplication\Tutorial16DrawingApplication\bin\Debug\netcoreapp3.1\Tutorial16DrawingApplication.runtimeconfig.dev.json
+C:\Users\MS Official\source\repos\Tutorial16DrawingApplication\Tutorial16DrawingApplication\bin\Debug\netcoreapp3.1\Tutorial16DrawingApplication.dll
+C:\Users\MS Official\source\repos\Tutorial16DrawingApplication\Tutorial16DrawingApplication\bin\Debug\netcoreapp3.1\Tutorial16DrawingApplication.pdb
+C:\Users\MS Official\source\repos\Tutorial16DrawingApplication\Tutorial16DrawingApplication\obj\Debug\netcoreapp3.1\Tutorial16DrawingApplication.AssemblyInfoInputs.cache
+C:\Users\MS Official\source\repos\Tutorial16DrawingApplication\Tutorial16DrawingApplication\obj\Debug\netcoreapp3.1\Tutorial16DrawingApplication.AssemblyInfo.cs
+C:\Users\MS Official\source\repos\Tutorial16DrawingApplication\Tutorial16DrawingApplication\obj\Debug\netcoreapp3.1\Tutorial16DrawingApplication.csproj.CoreCompileInputs.cache
+C:\Users\MS Official\source\repos\Tutorial16DrawingApplication\Tutorial16DrawingApplication\obj\Debug\netcoreapp3.1\Tutorial16DrawingApplication.dll
+C:\Users\MS Official\source\repos\Tutorial16DrawingApplication\Tutorial16DrawingApplication\obj\Debug\netcoreapp3.1\Tutorial16DrawingApplication.pdb
+C:\Users\MS Official\source\repos\Tutorial16DrawingApplication\Tutorial16DrawingApplication\obj\Debug\netcoreapp3.1\Tutorial16DrawingApplication.genruntimeconfig.cache

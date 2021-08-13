@@ -1,0 +1,12 @@
+C:\Users\MS Official\source\repos\Tutorial20FileHandling\Tutorial20FileHandling\bin\Debug\netcoreapp3.1\Tutorial20FileHandling.exe
+C:\Users\MS Official\source\repos\Tutorial20FileHandling\Tutorial20FileHandling\bin\Debug\netcoreapp3.1\Tutorial20FileHandling.deps.json
+C:\Users\MS Official\source\repos\Tutorial20FileHandling\Tutorial20FileHandling\bin\Debug\netcoreapp3.1\Tutorial20FileHandling.runtimeconfig.json
+C:\Users\MS Official\source\repos\Tutorial20FileHandling\Tutorial20FileHandling\bin\Debug\netcoreapp3.1\Tutorial20FileHandling.runtimeconfig.dev.json
+C:\Users\MS Official\source\repos\Tutorial20FileHandling\Tutorial20FileHandling\bin\Debug\netcoreapp3.1\Tutorial20FileHandling.dll
+C:\Users\MS Official\source\repos\Tutorial20FileHandling\Tutorial20FileHandling\bin\Debug\netcoreapp3.1\Tutorial20FileHandling.pdb
+C:\Users\MS Official\source\repos\Tutorial20FileHandling\Tutorial20FileHandling\obj\Debug\netcoreapp3.1\Tutorial20FileHandling.AssemblyInfoInputs.cache
+C:\Users\MS Official\source\repos\Tutorial20FileHandling\Tutorial20FileHandling\obj\Debug\netcoreapp3.1\Tutorial20FileHandling.AssemblyInfo.cs
+C:\Users\MS Official\source\repos\Tutorial20FileHandling\Tutorial20FileHandling\obj\Debug\netcoreapp3.1\Tutorial20FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\MS Official\source\repos\Tutorial20FileHandling\Tutorial20FileHandling\obj\Debug\netcoreapp3.1\Tutorial20FileHandling.dll
+C:\Users\MS Official\source\repos\Tutorial20FileHandling\Tutorial20FileHandling\obj\Debug\netcoreapp3.1\Tutorial20FileHandling.pdb
+C:\Users\MS Official\source\repos\Tutorial20FileHandling\Tutorial20FileHandling\obj\Debug\netcoreapp3.1\Tutorial20FileHandling.genruntimeconfig.cache

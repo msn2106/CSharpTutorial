@@ -1,0 +1,13 @@
+C:\Users\MS Official\source\repos\Tutorial17Struct\Tutorial17Struct\bin\Debug\netcoreapp3.1\Tutorial17Struct.exe
+C:\Users\MS Official\source\repos\Tutorial17Struct\Tutorial17Struct\bin\Debug\netcoreapp3.1\Tutorial17Struct.deps.json
+C:\Users\MS Official\source\repos\Tutorial17Struct\Tutorial17Struct\bin\Debug\netcoreapp3.1\Tutorial17Struct.runtimeconfig.json
+C:\Users\MS Official\source\repos\Tutorial17Struct\Tutorial17Struct\bin\Debug\netcoreapp3.1\Tutorial17Struct.runtimeconfig.dev.json
+C:\Users\MS Official\source\repos\Tutorial17Struct\Tutorial17Struct\bin\Debug\netcoreapp3.1\Tutorial17Struct.dll
+C:\Users\MS Official\source\repos\Tutorial17Struct\Tutorial17Struct\bin\Debug\netcoreapp3.1\Tutorial17Struct.pdb
+C:\Users\MS Official\source\repos\Tutorial17Struct\Tutorial17Struct\obj\Debug\netcoreapp3.1\Tutorial17Struct.csproj.AssemblyReference.cache
+C:\Users\MS Official\source\repos\Tutorial17Struct\Tutorial17Struct\obj\Debug\netcoreapp3.1\Tutorial17Struct.AssemblyInfoInputs.cache
+C:\Users\MS Official\source\repos\Tutorial17Struct\Tutorial17Struct\obj\Debug\netcoreapp3.1\Tutorial17Struct.AssemblyInfo.cs
+C:\Users\MS Official\source\repos\Tutorial17Struct\Tutorial17Struct\obj\Debug\netcoreapp3.1\Tutorial17Struct.csproj.CoreCompileInputs.cache
+C:\Users\MS Official\source\repos\Tutorial17Struct\Tutorial17Struct\obj\Debug\netcoreapp3.1\Tutorial17Struct.dll
+C:\Users\MS Official\source\repos\Tutorial17Struct\Tutorial17Struct\obj\Debug\netcoreapp3.1\Tutorial17Struct.pdb
+C:\Users\MS Official\source\repos\Tutorial17Struct\Tutorial17Struct\obj\Debug\netcoreapp3.1\Tutorial17Struct.genruntimeconfig.cache

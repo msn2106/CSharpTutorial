@@ -1,0 +1,13 @@
+C:\Users\MS Official\source\repos\Tutorial9Inheritance\Tutorial9Inheritance\bin\Debug\netcoreapp3.1\Tutorial9Inheritance.exe
+C:\Users\MS Official\source\repos\Tutorial9Inheritance\Tutorial9Inheritance\bin\Debug\netcoreapp3.1\Tutorial9Inheritance.deps.json
+C:\Users\MS Official\source\repos\Tutorial9Inheritance\Tutorial9Inheritance\bin\Debug\netcoreapp3.1\Tutorial9Inheritance.runtimeconfig.json
+C:\Users\MS Official\source\repos\Tutorial9Inheritance\Tutorial9Inheritance\bin\Debug\netcoreapp3.1\Tutorial9Inheritance.runtimeconfig.dev.json
+C:\Users\MS Official\source\repos\Tutorial9Inheritance\Tutorial9Inheritance\bin\Debug\netcoreapp3.1\Tutorial9Inheritance.dll
+C:\Users\MS Official\source\repos\Tutorial9Inheritance\Tutorial9Inheritance\bin\Debug\netcoreapp3.1\Tutorial9Inheritance.pdb
+C:\Users\MS Official\source\repos\Tutorial9Inheritance\Tutorial9Inheritance\obj\Debug\netcoreapp3.1\Tutorial9Inheritance.csproj.AssemblyReference.cache
+C:\Users\MS Official\source\repos\Tutorial9Inheritance\Tutorial9Inheritance\obj\Debug\netcoreapp3.1\Tutorial9Inheritance.AssemblyInfoInputs.cache
+C:\Users\MS Official\source\repos\Tutorial9Inheritance\Tutorial9Inheritance\obj\Debug\netcoreapp3.1\Tutorial9Inheritance.AssemblyInfo.cs
+C:\Users\MS Official\source\repos\Tutorial9Inheritance\Tutorial9Inheritance\obj\Debug\netcoreapp3.1\Tutorial9Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\MS Official\source\repos\Tutorial9Inheritance\Tutorial9Inheritance\obj\Debug\netcoreapp3.1\Tutorial9Inheritance.dll
+C:\Users\MS Official\source\repos\Tutorial9Inheritance\Tutorial9Inheritance\obj\Debug\netcoreapp3.1\Tutorial9Inheritance.pdb
+C:\Users\MS Official\source\repos\Tutorial9Inheritance\Tutorial9Inheritance\obj\Debug\netcoreapp3.1\Tutorial9Inheritance.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tutorial27Queue/1.0.0": {
+        "runtime": {
+          "Tutorial27Queue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tutorial27Queue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

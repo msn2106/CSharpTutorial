@@ -1,0 +1,13 @@
+C:\Users\MS Official\source\repos\Tutorial18Enums\Tutorial18Enums\bin\Debug\netcoreapp3.1\Tutorial18Enums.exe
+C:\Users\MS Official\source\repos\Tutorial18Enums\Tutorial18Enums\bin\Debug\netcoreapp3.1\Tutorial18Enums.deps.json
+C:\Users\MS Official\source\repos\Tutorial18Enums\Tutorial18Enums\bin\Debug\netcoreapp3.1\Tutorial18Enums.runtimeconfig.json
+C:\Users\MS Official\source\repos\Tutorial18Enums\Tutorial18Enums\bin\Debug\netcoreapp3.1\Tutorial18Enums.runtimeconfig.dev.json
+C:\Users\MS Official\source\repos\Tutorial18Enums\Tutorial18Enums\bin\Debug\netcoreapp3.1\Tutorial18Enums.dll
+C:\Users\MS Official\source\repos\Tutorial18Enums\Tutorial18Enums\bin\Debug\netcoreapp3.1\Tutorial18Enums.pdb
+C:\Users\MS Official\source\repos\Tutorial18Enums\Tutorial18Enums\obj\Debug\netcoreapp3.1\Tutorial18Enums.csproj.AssemblyReference.cache
+C:\Users\MS Official\source\repos\Tutorial18Enums\Tutorial18Enums\obj\Debug\netcoreapp3.1\Tutorial18Enums.AssemblyInfoInputs.cache
+C:\Users\MS Official\source\repos\Tutorial18Enums\Tutorial18Enums\obj\Debug\netcoreapp3.1\Tutorial18Enums.AssemblyInfo.cs
+C:\Users\MS Official\source\repos\Tutorial18Enums\Tutorial18Enums\obj\Debug\netcoreapp3.1\Tutorial18Enums.csproj.CoreCompileInputs.cache
+C:\Users\MS Official\source\repos\Tutorial18Enums\Tutorial18Enums\obj\Debug\netcoreapp3.1\Tutorial18Enums.dll
+C:\Users\MS Official\source\repos\Tutorial18Enums\Tutorial18Enums\obj\Debug\netcoreapp3.1\Tutorial18Enums.pdb
+C:\Users\MS Official\source\repos\Tutorial18Enums\Tutorial18Enums\obj\Debug\netcoreapp3.1\Tutorial18Enums.genruntimeconfig.cache

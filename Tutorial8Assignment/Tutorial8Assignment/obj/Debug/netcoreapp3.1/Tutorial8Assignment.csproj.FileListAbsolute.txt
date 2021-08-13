@@ -1,0 +1,13 @@
+C:\Users\MS Official\source\repos\Tutorial8Assignment\Tutorial8Assignment\bin\Debug\netcoreapp3.1\Tutorial8Assignment.exe
+C:\Users\MS Official\source\repos\Tutorial8Assignment\Tutorial8Assignment\bin\Debug\netcoreapp3.1\Tutorial8Assignment.deps.json
+C:\Users\MS Official\source\repos\Tutorial8Assignment\Tutorial8Assignment\bin\Debug\netcoreapp3.1\Tutorial8Assignment.runtimeconfig.json
+C:\Users\MS Official\source\repos\Tutorial8Assignment\Tutorial8Assignment\bin\Debug\netcoreapp3.1\Tutorial8Assignment.runtimeconfig.dev.json
+C:\Users\MS Official\source\repos\Tutorial8Assignment\Tutorial8Assignment\bin\Debug\netcoreapp3.1\Tutorial8Assignment.dll
+C:\Users\MS Official\source\repos\Tutorial8Assignment\Tutorial8Assignment\bin\Debug\netcoreapp3.1\Tutorial8Assignment.pdb
+C:\Users\MS Official\source\repos\Tutorial8Assignment\Tutorial8Assignment\obj\Debug\netcoreapp3.1\Tutorial8Assignment.csproj.AssemblyReference.cache
+C:\Users\MS Official\source\repos\Tutorial8Assignment\Tutorial8Assignment\obj\Debug\netcoreapp3.1\Tutorial8Assignment.AssemblyInfoInputs.cache
+C:\Users\MS Official\source\repos\Tutorial8Assignment\Tutorial8Assignment\obj\Debug\netcoreapp3.1\Tutorial8Assignment.AssemblyInfo.cs
+C:\Users\MS Official\source\repos\Tutorial8Assignment\Tutorial8Assignment\obj\Debug\netcoreapp3.1\Tutorial8Assignment.csproj.CoreCompileInputs.cache
+C:\Users\MS Official\source\repos\Tutorial8Assignment\Tutorial8Assignment\obj\Debug\netcoreapp3.1\Tutorial8Assignment.dll
+C:\Users\MS Official\source\repos\Tutorial8Assignment\Tutorial8Assignment\obj\Debug\netcoreapp3.1\Tutorial8Assignment.pdb
+C:\Users\MS Official\source\repos\Tutorial8Assignment\Tutorial8Assignment\obj\Debug\netcoreapp3.1\Tutorial8Assignment.genruntimeconfig.cache

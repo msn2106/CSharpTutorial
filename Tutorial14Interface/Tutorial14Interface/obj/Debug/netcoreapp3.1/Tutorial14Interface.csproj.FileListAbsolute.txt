@@ -1,0 +1,13 @@
+C:\Users\MS Official\source\repos\Tutorial14Interface\Tutorial14Interface\bin\Debug\netcoreapp3.1\Tutorial14Interface.exe
+C:\Users\MS Official\source\repos\Tutorial14Interface\Tutorial14Interface\bin\Debug\netcoreapp3.1\Tutorial14Interface.deps.json
+C:\Users\MS Official\source\repos\Tutorial14Interface\Tutorial14Interface\bin\Debug\netcoreapp3.1\Tutorial14Interface.runtimeconfig.json
+C:\Users\MS Official\source\repos\Tutorial14Interface\Tutorial14Interface\bin\Debug\netcoreapp3.1\Tutorial14Interface.runtimeconfig.dev.json
+C:\Users\MS Official\source\repos\Tutorial14Interface\Tutorial14Interface\bin\Debug\netcoreapp3.1\Tutorial14Interface.dll
+C:\Users\MS Official\source\repos\Tutorial14Interface\Tutorial14Interface\bin\Debug\netcoreapp3.1\Tutorial14Interface.pdb
+C:\Users\MS Official\source\repos\Tutorial14Interface\Tutorial14Interface\obj\Debug\netcoreapp3.1\Tutorial14Interface.AssemblyInfoInputs.cache
+C:\Users\MS Official\source\repos\Tutorial14Interface\Tutorial14Interface\obj\Debug\netcoreapp3.1\Tutorial14Interface.AssemblyInfo.cs
+C:\Users\MS Official\source\repos\Tutorial14Interface\Tutorial14Interface\obj\Debug\netcoreapp3.1\Tutorial14Interface.csproj.CoreCompileInputs.cache
+C:\Users\MS Official\source\repos\Tutorial14Interface\Tutorial14Interface\obj\Debug\netcoreapp3.1\Tutorial14Interface.dll
+C:\Users\MS Official\source\repos\Tutorial14Interface\Tutorial14Interface\obj\Debug\netcoreapp3.1\Tutorial14Interface.pdb
+C:\Users\MS Official\source\repos\Tutorial14Interface\Tutorial14Interface\obj\Debug\netcoreapp3.1\Tutorial14Interface.genruntimeconfig.cache
+C:\Users\MS Official\source\repos\Tutorial14Interface\Tutorial14Interface\obj\Debug\netcoreapp3.1\Tutorial14Interface.csproj.AssemblyReference.cache

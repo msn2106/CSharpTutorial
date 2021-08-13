@@ -1,0 +1,13 @@
+C:\Users\MS Official\source\repos\Tutorial13AbstractClass\Tutorial13AbstractClass\bin\Debug\netcoreapp3.1\Tutorial13AbstractClass.exe
+C:\Users\MS Official\source\repos\Tutorial13AbstractClass\Tutorial13AbstractClass\bin\Debug\netcoreapp3.1\Tutorial13AbstractClass.deps.json
+C:\Users\MS Official\source\repos\Tutorial13AbstractClass\Tutorial13AbstractClass\bin\Debug\netcoreapp3.1\Tutorial13AbstractClass.runtimeconfig.json
+C:\Users\MS Official\source\repos\Tutorial13AbstractClass\Tutorial13AbstractClass\bin\Debug\netcoreapp3.1\Tutorial13AbstractClass.runtimeconfig.dev.json
+C:\Users\MS Official\source\repos\Tutorial13AbstractClass\Tutorial13AbstractClass\bin\Debug\netcoreapp3.1\Tutorial13AbstractClass.dll
+C:\Users\MS Official\source\repos\Tutorial13AbstractClass\Tutorial13AbstractClass\bin\Debug\netcoreapp3.1\Tutorial13AbstractClass.pdb
+C:\Users\MS Official\source\repos\Tutorial13AbstractClass\Tutorial13AbstractClass\obj\Debug\netcoreapp3.1\Tutorial13AbstractClass.csproj.AssemblyReference.cache
+C:\Users\MS Official\source\repos\Tutorial13AbstractClass\Tutorial13AbstractClass\obj\Debug\netcoreapp3.1\Tutorial13AbstractClass.AssemblyInfoInputs.cache
+C:\Users\MS Official\source\repos\Tutorial13AbstractClass\Tutorial13AbstractClass\obj\Debug\netcoreapp3.1\Tutorial13AbstractClass.AssemblyInfo.cs
+C:\Users\MS Official\source\repos\Tutorial13AbstractClass\Tutorial13AbstractClass\obj\Debug\netcoreapp3.1\Tutorial13AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\MS Official\source\repos\Tutorial13AbstractClass\Tutorial13AbstractClass\obj\Debug\netcoreapp3.1\Tutorial13AbstractClass.dll
+C:\Users\MS Official\source\repos\Tutorial13AbstractClass\Tutorial13AbstractClass\obj\Debug\netcoreapp3.1\Tutorial13AbstractClass.pdb
+C:\Users\MS Official\source\repos\Tutorial13AbstractClass\Tutorial13AbstractClass\obj\Debug\netcoreapp3.1\Tutorial13AbstractClass.genruntimeconfig.cache

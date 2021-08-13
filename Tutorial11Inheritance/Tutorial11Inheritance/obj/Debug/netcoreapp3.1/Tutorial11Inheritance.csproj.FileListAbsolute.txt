@@ -1,0 +1,12 @@
+C:\Users\MS Official\source\repos\Tutorial11Inheritance\Tutorial11Inheritance\bin\Debug\netcoreapp3.1\Tutorial11Inheritance.exe
+C:\Users\MS Official\source\repos\Tutorial11Inheritance\Tutorial11Inheritance\bin\Debug\netcoreapp3.1\Tutorial11Inheritance.deps.json
+C:\Users\MS Official\source\repos\Tutorial11Inheritance\Tutorial11Inheritance\bin\Debug\netcoreapp3.1\Tutorial11Inheritance.runtimeconfig.json
+C:\Users\MS Official\source\repos\Tutorial11Inheritance\Tutorial11Inheritance\bin\Debug\netcoreapp3.1\Tutorial11Inheritance.runtimeconfig.dev.json
+C:\Users\MS Official\source\repos\Tutorial11Inheritance\Tutorial11Inheritance\bin\Debug\netcoreapp3.1\Tutorial11Inheritance.dll
+C:\Users\MS Official\source\repos\Tutorial11Inheritance\Tutorial11Inheritance\bin\Debug\netcoreapp3.1\Tutorial11Inheritance.pdb
+C:\Users\MS Official\source\repos\Tutorial11Inheritance\Tutorial11Inheritance\obj\Debug\netcoreapp3.1\Tutorial11Inheritance.AssemblyInfoInputs.cache
+C:\Users\MS Official\source\repos\Tutorial11Inheritance\Tutorial11Inheritance\obj\Debug\netcoreapp3.1\Tutorial11Inheritance.AssemblyInfo.cs
+C:\Users\MS Official\source\repos\Tutorial11Inheritance\Tutorial11Inheritance\obj\Debug\netcoreapp3.1\Tutorial11Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\MS Official\source\repos\Tutorial11Inheritance\Tutorial11Inheritance\obj\Debug\netcoreapp3.1\Tutorial11Inheritance.dll
+C:\Users\MS Official\source\repos\Tutorial11Inheritance\Tutorial11Inheritance\obj\Debug\netcoreapp3.1\Tutorial11Inheritance.pdb
+C:\Users\MS Official\source\repos\Tutorial11Inheritance\Tutorial11Inheritance\obj\Debug\netcoreapp3.1\Tutorial11Inheritance.genruntimeconfig.cache

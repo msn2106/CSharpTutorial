@@ -1,0 +1,13 @@
+C:\Users\MS Official\source\repos\Tutorial21\Tutorial21\bin\Debug\netcoreapp3.1\Tutorial21.exe
+C:\Users\MS Official\source\repos\Tutorial21\Tutorial21\bin\Debug\netcoreapp3.1\Tutorial21.deps.json
+C:\Users\MS Official\source\repos\Tutorial21\Tutorial21\bin\Debug\netcoreapp3.1\Tutorial21.runtimeconfig.json
+C:\Users\MS Official\source\repos\Tutorial21\Tutorial21\bin\Debug\netcoreapp3.1\Tutorial21.runtimeconfig.dev.json
+C:\Users\MS Official\source\repos\Tutorial21\Tutorial21\bin\Debug\netcoreapp3.1\Tutorial21.dll
+C:\Users\MS Official\source\repos\Tutorial21\Tutorial21\bin\Debug\netcoreapp3.1\Tutorial21.pdb
+C:\Users\MS Official\source\repos\Tutorial21\Tutorial21\obj\Debug\netcoreapp3.1\Tutorial21.csproj.AssemblyReference.cache
+C:\Users\MS Official\source\repos\Tutorial21\Tutorial21\obj\Debug\netcoreapp3.1\Tutorial21.AssemblyInfoInputs.cache
+C:\Users\MS Official\source\repos\Tutorial21\Tutorial21\obj\Debug\netcoreapp3.1\Tutorial21.AssemblyInfo.cs
+C:\Users\MS Official\source\repos\Tutorial21\Tutorial21\obj\Debug\netcoreapp3.1\Tutorial21.csproj.CoreCompileInputs.cache
+C:\Users\MS Official\source\repos\Tutorial21\Tutorial21\obj\Debug\netcoreapp3.1\Tutorial21.dll
+C:\Users\MS Official\source\repos\Tutorial21\Tutorial21\obj\Debug\netcoreapp3.1\Tutorial21.pdb
+C:\Users\MS Official\source\repos\Tutorial21\Tutorial21\obj\Debug\netcoreapp3.1\Tutorial21.genruntimeconfig.cache

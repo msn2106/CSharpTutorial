@@ -1,0 +1,14 @@
+C:\Users\MS Official\source\repos\Tutorial28Dictionary\Tutorial28Dictionary\bin\Debug\netcoreapp3.1\Tutorial28Dictionary.exe
+C:\Users\MS Official\source\repos\Tutorial28Dictionary\Tutorial28Dictionary\bin\Debug\netcoreapp3.1\Tutorial28Dictionary.deps.json
+C:\Users\MS Official\source\repos\Tutorial28Dictionary\Tutorial28Dictionary\bin\Debug\netcoreapp3.1\Tutorial28Dictionary.runtimeconfig.json
+C:\Users\MS Official\source\repos\Tutorial28Dictionary\Tutorial28Dictionary\bin\Debug\netcoreapp3.1\Tutorial28Dictionary.runtimeconfig.dev.json
+C:\Users\MS Official\source\repos\Tutorial28Dictionary\Tutorial28Dictionary\bin\Debug\netcoreapp3.1\Tutorial28Dictionary.dll
+C:\Users\MS Official\source\repos\Tutorial28Dictionary\Tutorial28Dictionary\bin\Debug\netcoreapp3.1\Tutorial28Dictionary.pdb
+C:\Users\MS Official\source\repos\Tutorial28Dictionary\Tutorial28Dictionary\obj\Debug\netcoreapp3.1\Tutorial28Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MS Official\source\repos\Tutorial28Dictionary\Tutorial28Dictionary\obj\Debug\netcoreapp3.1\Tutorial28Dictionary.AssemblyInfoInputs.cache
+C:\Users\MS Official\source\repos\Tutorial28Dictionary\Tutorial28Dictionary\obj\Debug\netcoreapp3.1\Tutorial28Dictionary.AssemblyInfo.cs
+C:\Users\MS Official\source\repos\Tutorial28Dictionary\Tutorial28Dictionary\obj\Debug\netcoreapp3.1\Tutorial28Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\MS Official\source\repos\Tutorial28Dictionary\Tutorial28Dictionary\obj\Debug\netcoreapp3.1\Tutorial28Dictionary.dll
+C:\Users\MS Official\source\repos\Tutorial28Dictionary\Tutorial28Dictionary\obj\Debug\netcoreapp3.1\Tutorial28Dictionary.pdb
+C:\Users\MS Official\source\repos\Tutorial28Dictionary\Tutorial28Dictionary\obj\Debug\netcoreapp3.1\Tutorial28Dictionary.genruntimeconfig.cache
+C:\Users\MS Official\source\repos\Tutorial28Dictionary\Tutorial28Dictionary\obj\Debug\netcoreapp3.1\Tutorial28Dictionary.csproj.AssemblyReference.cache

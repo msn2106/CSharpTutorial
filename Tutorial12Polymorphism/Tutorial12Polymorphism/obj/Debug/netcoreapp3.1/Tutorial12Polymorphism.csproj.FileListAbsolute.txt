@@ -1,0 +1,12 @@
+C:\Users\MS Official\source\repos\Tutorial12Polymorphism\Tutorial12Polymorphism\bin\Debug\netcoreapp3.1\Tutorial12Polymorphism.exe
+C:\Users\MS Official\source\repos\Tutorial12Polymorphism\Tutorial12Polymorphism\bin\Debug\netcoreapp3.1\Tutorial12Polymorphism.deps.json
+C:\Users\MS Official\source\repos\Tutorial12Polymorphism\Tutorial12Polymorphism\bin\Debug\netcoreapp3.1\Tutorial12Polymorphism.runtimeconfig.json
+C:\Users\MS Official\source\repos\Tutorial12Polymorphism\Tutorial12Polymorphism\bin\Debug\netcoreapp3.1\Tutorial12Polymorphism.runtimeconfig.dev.json
+C:\Users\MS Official\source\repos\Tutorial12Polymorphism\Tutorial12Polymorphism\bin\Debug\netcoreapp3.1\Tutorial12Polymorphism.dll
+C:\Users\MS Official\source\repos\Tutorial12Polymorphism\Tutorial12Polymorphism\bin\Debug\netcoreapp3.1\Tutorial12Polymorphism.pdb
+C:\Users\MS Official\source\repos\Tutorial12Polymorphism\Tutorial12Polymorphism\obj\Debug\netcoreapp3.1\Tutorial12Polymorphism.AssemblyInfoInputs.cache
+C:\Users\MS Official\source\repos\Tutorial12Polymorphism\Tutorial12Polymorphism\obj\Debug\netcoreapp3.1\Tutorial12Polymorphism.AssemblyInfo.cs
+C:\Users\MS Official\source\repos\Tutorial12Polymorphism\Tutorial12Polymorphism\obj\Debug\netcoreapp3.1\Tutorial12Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\MS Official\source\repos\Tutorial12Polymorphism\Tutorial12Polymorphism\obj\Debug\netcoreapp3.1\Tutorial12Polymorphism.dll
+C:\Users\MS Official\source\repos\Tutorial12Polymorphism\Tutorial12Polymorphism\obj\Debug\netcoreapp3.1\Tutorial12Polymorphism.pdb
+C:\Users\MS Official\source\repos\Tutorial12Polymorphism\Tutorial12Polymorphism\obj\Debug\netcoreapp3.1\Tutorial12Polymorphism.genruntimeconfig.cache

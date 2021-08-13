@@ -1,0 +1,13 @@
+C:\Users\MS Official\source\repos\Tutorial5\Tutorial5\bin\Debug\netcoreapp3.1\Tutorial5.exe
+C:\Users\MS Official\source\repos\Tutorial5\Tutorial5\bin\Debug\netcoreapp3.1\Tutorial5.deps.json
+C:\Users\MS Official\source\repos\Tutorial5\Tutorial5\bin\Debug\netcoreapp3.1\Tutorial5.runtimeconfig.json
+C:\Users\MS Official\source\repos\Tutorial5\Tutorial5\bin\Debug\netcoreapp3.1\Tutorial5.runtimeconfig.dev.json
+C:\Users\MS Official\source\repos\Tutorial5\Tutorial5\bin\Debug\netcoreapp3.1\Tutorial5.dll
+C:\Users\MS Official\source\repos\Tutorial5\Tutorial5\bin\Debug\netcoreapp3.1\Tutorial5.pdb
+C:\Users\MS Official\source\repos\Tutorial5\Tutorial5\obj\Debug\netcoreapp3.1\Tutorial5.csproj.AssemblyReference.cache
+C:\Users\MS Official\source\repos\Tutorial5\Tutorial5\obj\Debug\netcoreapp3.1\Tutorial5.AssemblyInfoInputs.cache
+C:\Users\MS Official\source\repos\Tutorial5\Tutorial5\obj\Debug\netcoreapp3.1\Tutorial5.AssemblyInfo.cs
+C:\Users\MS Official\source\repos\Tutorial5\Tutorial5\obj\Debug\netcoreapp3.1\Tutorial5.csproj.CoreCompileInputs.cache
+C:\Users\MS Official\source\repos\Tutorial5\Tutorial5\obj\Debug\netcoreapp3.1\Tutorial5.dll
+C:\Users\MS Official\source\repos\Tutorial5\Tutorial5\obj\Debug\netcoreapp3.1\Tutorial5.pdb
+C:\Users\MS Official\source\repos\Tutorial5\Tutorial5\obj\Debug\netcoreapp3.1\Tutorial5.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\MS Official\source\repos\Tutorial22Collections\Tutorial22Collections\bin\Debug\netcoreapp3.1\Tutorial22Collections.exe
+C:\Users\MS Official\source\repos\Tutorial22Collections\Tutorial22Collections\bin\Debug\netcoreapp3.1\Tutorial22Collections.deps.json
+C:\Users\MS Official\source\repos\Tutorial22Collections\Tutorial22Collections\bin\Debug\netcoreapp3.1\Tutorial22Collections.runtimeconfig.json
+C:\Users\MS Official\source\repos\Tutorial22Collections\Tutorial22Collections\bin\Debug\netcoreapp3.1\Tutorial22Collections.runtimeconfig.dev.json
+C:\Users\MS Official\source\repos\Tutorial22Collections\Tutorial22Collections\bin\Debug\netcoreapp3.1\Tutorial22Collections.dll
+C:\Users\MS Official\source\repos\Tutorial22Collections\Tutorial22Collections\bin\Debug\netcoreapp3.1\Tutorial22Collections.pdb
+C:\Users\MS Official\source\repos\Tutorial22Collections\Tutorial22Collections\obj\Debug\netcoreapp3.1\Tutorial22Collections.csproj.AssemblyReference.cache
+C:\Users\MS Official\source\repos\Tutorial22Collections\Tutorial22Collections\obj\Debug\netcoreapp3.1\Tutorial22Collections.AssemblyInfoInputs.cache
+C:\Users\MS Official\source\repos\Tutorial22Collections\Tutorial22Collections\obj\Debug\netcoreapp3.1\Tutorial22Collections.AssemblyInfo.cs
+C:\Users\MS Official\source\repos\Tutorial22Collections\Tutorial22Collections\obj\Debug\netcoreapp3.1\Tutorial22Collections.csproj.CoreCompileInputs.cache
+C:\Users\MS Official\source\repos\Tutorial22Collections\Tutorial22Collections\obj\Debug\netcoreapp3.1\Tutorial22Collections.dll
+C:\Users\MS Official\source\repos\Tutorial22Collections\Tutorial22Collections\obj\Debug\netcoreapp3.1\Tutorial22Collections.pdb
+C:\Users\MS Official\source\repos\Tutorial22Collections\Tutorial22Collections\obj\Debug\netcoreapp3.1\Tutorial22Collections.genruntimeconfig.cache

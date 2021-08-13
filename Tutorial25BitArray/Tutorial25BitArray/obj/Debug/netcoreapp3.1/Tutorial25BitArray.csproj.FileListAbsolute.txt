@@ -1,0 +1,14 @@
+C:\Users\MS Official\source\repos\Tutorial25BitArray\Tutorial25BitArray\bin\Debug\netcoreapp3.1\Tutorial25BitArray.exe
+C:\Users\MS Official\source\repos\Tutorial25BitArray\Tutorial25BitArray\bin\Debug\netcoreapp3.1\Tutorial25BitArray.deps.json
+C:\Users\MS Official\source\repos\Tutorial25BitArray\Tutorial25BitArray\bin\Debug\netcoreapp3.1\Tutorial25BitArray.runtimeconfig.json
+C:\Users\MS Official\source\repos\Tutorial25BitArray\Tutorial25BitArray\bin\Debug\netcoreapp3.1\Tutorial25BitArray.runtimeconfig.dev.json
+C:\Users\MS Official\source\repos\Tutorial25BitArray\Tutorial25BitArray\bin\Debug\netcoreapp3.1\Tutorial25BitArray.dll
+C:\Users\MS Official\source\repos\Tutorial25BitArray\Tutorial25BitArray\bin\Debug\netcoreapp3.1\Tutorial25BitArray.pdb
+C:\Users\MS Official\source\repos\Tutorial25BitArray\Tutorial25BitArray\obj\Debug\netcoreapp3.1\Tutorial25BitArray.csproj.AssemblyReference.cache
+C:\Users\MS Official\source\repos\Tutorial25BitArray\Tutorial25BitArray\obj\Debug\netcoreapp3.1\Tutorial25BitArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MS Official\source\repos\Tutorial25BitArray\Tutorial25BitArray\obj\Debug\netcoreapp3.1\Tutorial25BitArray.AssemblyInfoInputs.cache
+C:\Users\MS Official\source\repos\Tutorial25BitArray\Tutorial25BitArray\obj\Debug\netcoreapp3.1\Tutorial25BitArray.AssemblyInfo.cs
+C:\Users\MS Official\source\repos\Tutorial25BitArray\Tutorial25BitArray\obj\Debug\netcoreapp3.1\Tutorial25BitArray.csproj.CoreCompileInputs.cache
+C:\Users\MS Official\source\repos\Tutorial25BitArray\Tutorial25BitArray\obj\Debug\netcoreapp3.1\Tutorial25BitArray.dll
+C:\Users\MS Official\source\repos\Tutorial25BitArray\Tutorial25BitArray\obj\Debug\netcoreapp3.1\Tutorial25BitArray.pdb
+C:\Users\MS Official\source\repos\Tutorial25BitArray\Tutorial25BitArray\obj\Debug\netcoreapp3.1\Tutorial25BitArray.genruntimeconfig.cache

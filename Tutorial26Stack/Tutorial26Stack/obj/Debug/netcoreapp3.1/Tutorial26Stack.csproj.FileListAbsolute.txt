@@ -1,0 +1,14 @@
+C:\Users\MS Official\source\repos\Tutorial26Stack\Tutorial26Stack\bin\Debug\netcoreapp3.1\Tutorial26Stack.exe
+C:\Users\MS Official\source\repos\Tutorial26Stack\Tutorial26Stack\bin\Debug\netcoreapp3.1\Tutorial26Stack.deps.json
+C:\Users\MS Official\source\repos\Tutorial26Stack\Tutorial26Stack\bin\Debug\netcoreapp3.1\Tutorial26Stack.runtimeconfig.json
+C:\Users\MS Official\source\repos\Tutorial26Stack\Tutorial26Stack\bin\Debug\netcoreapp3.1\Tutorial26Stack.runtimeconfig.dev.json
+C:\Users\MS Official\source\repos\Tutorial26Stack\Tutorial26Stack\bin\Debug\netcoreapp3.1\Tutorial26Stack.dll
+C:\Users\MS Official\source\repos\Tutorial26Stack\Tutorial26Stack\bin\Debug\netcoreapp3.1\Tutorial26Stack.pdb
+C:\Users\MS Official\source\repos\Tutorial26Stack\Tutorial26Stack\obj\Debug\netcoreapp3.1\Tutorial26Stack.csproj.AssemblyReference.cache
+C:\Users\MS Official\source\repos\Tutorial26Stack\Tutorial26Stack\obj\Debug\netcoreapp3.1\Tutorial26Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MS Official\source\repos\Tutorial26Stack\Tutorial26Stack\obj\Debug\netcoreapp3.1\Tutorial26Stack.AssemblyInfoInputs.cache
+C:\Users\MS Official\source\repos\Tutorial26Stack\Tutorial26Stack\obj\Debug\netcoreapp3.1\Tutorial26Stack.AssemblyInfo.cs
+C:\Users\MS Official\source\repos\Tutorial26Stack\Tutorial26Stack\obj\Debug\netcoreapp3.1\Tutorial26Stack.csproj.CoreCompileInputs.cache
+C:\Users\MS Official\source\repos\Tutorial26Stack\Tutorial26Stack\obj\Debug\netcoreapp3.1\Tutorial26Stack.dll
+C:\Users\MS Official\source\repos\Tutorial26Stack\Tutorial26Stack\obj\Debug\netcoreapp3.1\Tutorial26Stack.pdb
+C:\Users\MS Official\source\repos\Tutorial26Stack\Tutorial26Stack\obj\Debug\netcoreapp3.1\Tutorial26Stack.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tutorial14Interface/1.0.0": {
+        "runtime": {
+          "Tutorial14Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tutorial14Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

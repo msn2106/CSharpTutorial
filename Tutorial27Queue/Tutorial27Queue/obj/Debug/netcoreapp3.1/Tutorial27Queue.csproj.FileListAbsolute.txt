@@ -1,0 +1,14 @@
+C:\Users\MS Official\source\repos\Tutorial27Queue\Tutorial27Queue\bin\Debug\netcoreapp3.1\Tutorial27Queue.exe
+C:\Users\MS Official\source\repos\Tutorial27Queue\Tutorial27Queue\bin\Debug\netcoreapp3.1\Tutorial27Queue.deps.json
+C:\Users\MS Official\source\repos\Tutorial27Queue\Tutorial27Queue\bin\Debug\netcoreapp3.1\Tutorial27Queue.runtimeconfig.json
+C:\Users\MS Official\source\repos\Tutorial27Queue\Tutorial27Queue\bin\Debug\netcoreapp3.1\Tutorial27Queue.runtimeconfig.dev.json
+C:\Users\MS Official\source\repos\Tutorial27Queue\Tutorial27Queue\bin\Debug\netcoreapp3.1\Tutorial27Queue.dll
+C:\Users\MS Official\source\repos\Tutorial27Queue\Tutorial27Queue\bin\Debug\netcoreapp3.1\Tutorial27Queue.pdb
+C:\Users\MS Official\source\repos\Tutorial27Queue\Tutorial27Queue\obj\Debug\netcoreapp3.1\Tutorial27Queue.csproj.AssemblyReference.cache
+C:\Users\MS Official\source\repos\Tutorial27Queue\Tutorial27Queue\obj\Debug\netcoreapp3.1\Tutorial27Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MS Official\source\repos\Tutorial27Queue\Tutorial27Queue\obj\Debug\netcoreapp3.1\Tutorial27Queue.AssemblyInfoInputs.cache
+C:\Users\MS Official\source\repos\Tutorial27Queue\Tutorial27Queue\obj\Debug\netcoreapp3.1\Tutorial27Queue.AssemblyInfo.cs
+C:\Users\MS Official\source\repos\Tutorial27Queue\Tutorial27Queue\obj\Debug\netcoreapp3.1\Tutorial27Queue.csproj.CoreCompileInputs.cache
+C:\Users\MS Official\source\repos\Tutorial27Queue\Tutorial27Queue\obj\Debug\netcoreapp3.1\Tutorial27Queue.dll
+C:\Users\MS Official\source\repos\Tutorial27Queue\Tutorial27Queue\obj\Debug\netcoreapp3.1\Tutorial27Queue.pdb
+C:\Users\MS Official\source\repos\Tutorial27Queue\Tutorial27Queue\obj\Debug\netcoreapp3.1\Tutorial27Queue.genruntimeconfig.cache
